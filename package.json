@@ -19,4 +19,7 @@
   "devDependencies": {
     "electron": "^1.4.1"
   }
+  "dependencies": {
+    "node-github": "latest"
+  }
 }
